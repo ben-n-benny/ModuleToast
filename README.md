@@ -5,13 +5,13 @@ MODULETOAST-Android
 
 Add it in your root build.gradle at the end of repositories
 
-allprojects {\n
-  repositories {\n
-    maven { url 'https://jitpack.io' }\n
-  }\n
-}\n
+allprojects {<br/>
+  repositories {<br/>
+    maven { url 'https://jitpack.io' }<br/>
+  }<br/>
+}<br/>
 
-Add the dependency\n
-  dependencies {\n
-    implementation 'com.github.ben-n-benny:ModuleToast:Tag'\n
-  }\n
+Add the dependency<br/>
+  dependencies {<br/>
+    implementation 'com.github.ben-n-benny:ModuleToast:Tag'<br/>
+  }<br/>

@@ -1,18 +1,11 @@
+
 # ModuleToast
 
-MODULETOAST-Android
+MODULE TEST FOR TOASTING
 
 
-Add it in your root build.gradle at the end of repositories
 
-allprojects {<br/>
-&emsp;repositories {<br/>
-&emsp;&emsp;maven { <br/>
-&emsp;&emsp;url 'https://jitpack.io' }<br/>
-&emsp;&emsp;}<br/>
-&emsp;}<br/>
+## Documentation
 
-Add the dependency<br/>
-&emsp;dependencies {<br/>
-&emsp;&emsp;implementation 'com.github.ben-n-benny:ModuleToast:Tag'<br/>
-&emsp;}<br/>
+[jitpack.io Documentation](https://jitpack.io/#ben-n-benny/ModuleToast/)
+
